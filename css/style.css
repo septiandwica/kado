@@ -68,3 +68,17 @@ body{
         font-size: .5rem;
     }
 }
+.message-container {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.message-text {
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
